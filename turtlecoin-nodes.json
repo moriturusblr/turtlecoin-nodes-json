@@ -152,6 +152,13 @@
       "port": 11898,
       "ssl": false,
       "cache": false
+    },
+    {
+      "name": "moriturusBlr-TRTL",
+      "url": "85.143.249.1",
+      "port": 11898,
+      "ssl": false,
+      "cache": false
     }
   ]
 }
